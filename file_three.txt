@@ -1,1 +1,2 @@
 more example text
+Added text on file 3
